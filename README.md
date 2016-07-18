@@ -1,4 +1,4 @@
-# homes-built-in-range-of-years
+# housing-attribute-visualizer
 What: Utility for mapping homes built in a specified date range.  
 
 Why: Portland has a housing crisis. http://www.oregonlive.com/portland/index.ssf/2016/06/portland_city_council_to_discu.html

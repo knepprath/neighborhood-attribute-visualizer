@@ -9,8 +9,8 @@ Are these houses located in dense pockets or scattered?
 
 Realized we have the technology to answer these questions quite easily.
 
--Found a convenient wrapper for Zillow's API: pyzillow (https://github.com/hanneshapke/pyzillow)
--Grabbing locations within a given radius: openstreetmap (http://wiki.openstreetmap.org/wiki/Downloading_data)
--Might need to be used to derive address from coordinate: geopy (https://github.com/geopy/geopy)
+- Found a convenient wrapper for Zillow's API: pyzillow (https://github.com/hanneshapke/pyzillow)
+- Grabbing locations within a given radius: openstreetmap (http://wiki.openstreetmap.org/wiki/Downloading_data)
+- Might need to be used to derive address from coordinate: geopy (https://github.com/geopy/geopy)
 
 Stretch goal would be to visualize this in a heatmap using Google Maps. https://developers.google.com/maps/documentation/javascript/examples/layer-heatmap
